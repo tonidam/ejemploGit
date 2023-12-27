@@ -8,6 +8,7 @@ public class MicClase implements Miinterfaz{
 	public int metododevuelveentero() {
 		// TODO Auto-generated method stub
 		return 0;
+		//No me dio tiempo a emplear este método.
 	}
 	 
 }
